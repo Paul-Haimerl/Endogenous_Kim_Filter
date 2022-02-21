@@ -1,2 +1,2 @@
 # Endogenous_Kim_Filter
-Script implementing the Kim filter for Bachelor thesis
+Script implementing endogenous Kim filter for Bachelor thesis
